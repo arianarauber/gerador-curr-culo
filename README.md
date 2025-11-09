@@ -1,1 +1,1 @@
-# gerador-curriculo
+# gerador_curriculo
